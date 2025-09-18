@@ -1,0 +1,14 @@
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\bin\Debug\net8.0\Switchproject.exe
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\bin\Debug\net8.0\Switchproject.deps.json
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\bin\Debug\net8.0\Switchproject.runtimeconfig.json
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\bin\Debug\net8.0\Switchproject.dll
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\bin\Debug\net8.0\Switchproject.pdb
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.AssemblyInfoInputs.cache
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.AssemblyInfo.cs
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.csproj.CoreCompileInputs.cache
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.dll
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\refint\Switchproject.dll
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.pdb
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\Switchproject.genruntimeconfig.cache
+C:\Users\ad1027142\OneDrive - Ozarks Technical Community College\2025-Fall\CIS-120-101\Visual_Studio\Switchproject\obj\Debug\net8.0\ref\Switchproject.dll
