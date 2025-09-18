@@ -1,6 +1,6 @@
-﻿// Program that asks what day it is
+// Program that asks what day it is
 // List options
-Console.WriteLine("What day is it?");
+Console.WriteLine("What day is it? Pick a number");
 Console.WriteLine("1) Monday");
 Console.WriteLine("2) Tuesday");
 Console.WriteLine("3) Wednesday");
@@ -13,27 +13,28 @@ Console.WriteLine();
 Console.Write(">> ");
 string day = Console.ReadLine() + "";
 Console.WriteLine();
+// Decides which day is inputed
 switch (day)
 {
-    case "Monday":
+    case "1":
         Console.WriteLine("Aack! I hate Mondays");
         break;
-    case "Tuesday":
+    case "2":
         Console.WriteLine("It's Tuesday");
         break;
-    case "Wednesday":
+    case "3":
         Console.WriteLine("Hump Daaaay!");
         break;
-    case "Thursday":
+    case "4":
         Console.WriteLine("It's Thursday!");
         break;
-    case "Friday":
+    case "5":
         Console.WriteLine("TGIF");
         break;
-    case "Saturday":
+    case "6":
         Console.WriteLine("It's the weekend!");
         break;
-    case "Sunday":
+    case "7":
         Console.WriteLine("It's the weekend!");
         break;
     default:
